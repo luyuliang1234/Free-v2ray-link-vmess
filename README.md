@@ -1,1 +1,8 @@
 # Free-v2ray-link-vmess
+Break GFW for free.  
+由于对于IPv4的河蟹较为严格，本地址为IPv6地址，请使用IPv6协议访问  
+还没有IPv6地址?请向你的运营商咨询相关事项，我这小县城都用上了  
+
+  `vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjIzM3YyLmNvbV85MS4yMDMuMTkyLjExNiIsDQogICJhZGQiOiAiMmEwMzo1YTAwOjE6NDoxMDAwOjoxMzYiLA0KICAicG9ydCI6ICI1NTU5MyIsDQogICJpZCI6ICJiNGVjNTVkZi1hYWY2LTQwYmYtYjUzYi1iMmNlMzUxZjAwMGMiLA0KICAiYWlkIjogIjIzMyIsDQogICJuZXQiOiAia2NwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==`
+  
+  且用且珍惜
