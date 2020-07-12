@@ -1,5 +1,6 @@
 # Free-v2ray-link-vmess
 Break GFW for free.  
+免费 个人搭建学术用途  
 由于对于IPv4的河蟹较为严格，本地址为IPv6地址，请使用IPv6协议访问  
 还没有IPv6地址?请向你的运营商咨询相关事项，我这小县城都用上了  
 
