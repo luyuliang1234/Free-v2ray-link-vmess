@@ -1,3 +1,6 @@
 # Free-v2ray-link-vmess
 Break GFW for free.  
-暂不可用
+
+
+
+vmess://ewoidiI6ICIyIiwKInBzIjogIjIzM3YyLmNvbV8yMy45NC45Mi4xMzEiLAoiYWRkIjogIjIzLjk0LjkyLjEzMSIsCiJwb3J0IjogIjU3MDAwIiwKImlkIjogIjNiYjczNDMwLTcyMTItNDk3OC1iZThiLTdhNThmZmI5OGZlNyIsCiJhaWQiOiAiMjMzIiwKIm5ldCI6ICJrY3AiLAoidHlwZSI6ICJ1dHAiLAoiaG9zdCI6ICIiLAoicGF0aCI6ICIiLAoidGxzIjogIiIKfQo=
