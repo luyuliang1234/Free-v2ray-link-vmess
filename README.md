@@ -1,6 +1,5 @@
 # Free-v2ray-link-vmess
 Break GFW for free.  
 -vmess://ewoidiI6ICIyIiwKInBzIjogIjIzM3YyLmNvbV8yMy45NC45NC4xNzAiLAoiYWRkIjogIjIzLjk0Ljk0LjE3MCIsCiJwb3J0IjogIjY1NTAwIiwKImlkIjogIjEyZTY0YTE4LWEwOWQtNGVmMi1hOTg3LWI3ZDZiMzZmYmVhNyIsCiJhaWQiOiAiMCIsCiJuZXQiOiAia2NwIiwKInR5cGUiOiAid2VjaGF0LXZpZGVvIiwKImhvc3QiOiAiIiwKInBhdGgiOiAiIiwKInRscyI6ICIiCn0K
-
 -
 2020.11.9
